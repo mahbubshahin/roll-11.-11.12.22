@@ -1,0 +1,13 @@
+.bg{
+    background: url('/image/img.PNG');
+    background-size: cover;
+    height: 600px;
+}
+.let{
+    align-items: center;
+    text-align: center;
+}
+.dis{
+    align-items: center;
+    text-align: center;
+}
